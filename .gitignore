@@ -1,1 +1,16 @@
+# Generated files
+*.pkl
+*.pdf
+Extracted_Text.txt
+chroma_langchain_db/
+
+# IDE
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
 .env
+venv/
+.venv/
